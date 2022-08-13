@@ -1,6 +1,6 @@
 # TWITOR
 
-Twitor (Twit on Rails), previously known as Twito, is an app like Twitter built on top Ruby on Rails for educational purpose. This is a project from Ruby training held by Digital Talent Scholarship
+Twitor (Twit on Rails), previously known as Twito, is an app like Twitter built on top Ruby on Rails for educational purpose. This is a project from Ruby training held by Digital Talent Scholarship, funded by KOMINFO (Ministry of Communication and Information Technology Indonesia) 
 
 ![Twitor](twito.png)
 
